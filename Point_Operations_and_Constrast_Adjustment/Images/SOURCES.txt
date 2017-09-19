@@ -1,0 +1,6 @@
+Image Sources
+
+[1] Berkeley Segmentation Database
+    (https://www.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/)
+[2] University of Southern California USC-SIPI Image Database
+    (http://sipi.usc.edu/database/)
